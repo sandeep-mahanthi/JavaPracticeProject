@@ -1,4 +1,5 @@
-# Snakegame
+# JavaPracticeProject
+
 This is a classic Snake Game implemented in Java using Swing and AWT for the graphical user interface. The game features smooth graphics and responsive controls, offering a nostalgic experience of the traditional snake game
 
 Features:
@@ -17,7 +18,8 @@ I have used Netbeans as my IDE
 Running the Game:
 
 Clone the repository:
-git clone https://github.com/sandeep-mahanthi/Snakegame.git
+git clone https://github.com/sandeep-mahanthi/JavaPracticeProject
+.git
 
 Navigate to the project directory:
 cd snake-game
